@@ -59,7 +59,7 @@ st.markdown("""
 # Title with custom styling
 st.markdown("""
     <h1 style='text-align: center; color: #1f77b4; margin-bottom: 2rem;'>
-        📚 Pandacea Document Viewer
+        📚 Pandacea Document Viewer - Darkmode goofed, switch to light mode.
     </h1>
 """, unsafe_allow_html=True)
 
